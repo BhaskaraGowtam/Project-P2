@@ -86,7 +86,7 @@ Show Appoitments()
 Logout()
 
 ## Getting Started :
-git clone https://github.com/Govardhan-999/Project-P2-Online-Ration-Slot-Booking-System.git cd my-project
+git clone https://github.com/BhaskaraGowtam/Project-P2 cd my-project
 
 ## Usage :
 In the proposed system they will allow Ration card holder to be more flexible they can register and can book by selecting the time slots and the system will confirm the booking so everything is computerized an done very fast which will save time.
